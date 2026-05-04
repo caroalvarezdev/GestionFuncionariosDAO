@@ -53,7 +53,7 @@ public class Main {
             System.out.println("------------");
         }
 
-        // 🔥 AQUÍ VA LO NUEVO (DENTRO DEL MAIN)
+        // 
         System.out.println("\n=== FUNCIONARIOS DESDE BD ===");
 
         List<Funcionario> desdeBD = dao.listar();
