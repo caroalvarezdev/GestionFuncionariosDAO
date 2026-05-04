@@ -12,7 +12,7 @@ public class Funcionario {
         this.cargo = cargo;
     }
 
-    // 🔹 ESTE ES EL MÉTODO QUE TE FALTABA
+    // 
     public String getNombre() {
         return nombre;
     }
